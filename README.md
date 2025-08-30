@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm Satwik Maiti
+🎓 **Computer Science Engineering Student** from India  
+💻 Passionate about **DSA and Competitive Programming**  
+🚀 Currently solving problems on **Codeforces | CodeChef**  
+  
+---
 
-<!--
-**Satwik367/Satwik367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- **Languages:** C++, Python, Javascript 
+- **Core Skills:** Data Structures & Algorithms, OOP, DBMS, OS  
+- **Web Dev:** HTML, CSS, React 
+- **Tools:** Git, GitHub, VS Code  
+- **Cloud:** AWS / GCP (beginner level)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Competitive Programming
+- **Codeforces:** [satwik_365](https://codeforces.com/profile/satwik_365)  
+- **CodeChef:** [satwik367](https://www.codechef.com/users/satwik367)  
+
+---
+
+## 🤝 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/satwik-maiti/)  
+- 📧 Email: satwikmaiti59@gmail.com 
+
+---
+
+⭐️ From [Satwik367](https://github.com/Satwik367)  
