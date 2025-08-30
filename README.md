@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Satwik Maiti
-🎓 **Computer Science Engineering Student** from India  
+🎓 **CSE B.Tech Student at VIT Bhopal Institute** from India  
 💻 Passionate about **DSA and Competitive Programming**  
 🚀 Currently solving problems on **Codeforces | CodeChef**  
   
