@@ -10,7 +10,7 @@
 - **Core Skills:** Data Structures & Algorithms, OOP, DBMS, OS  
 - **Web Dev:** HTML, CSS, React 
 - **Tools:** Git, GitHub, VS Code  
-- **Cloud:** AWS / GCP (beginner level)  
+- **Cloud:** AWS (beginner level)  
 
 ---
 
